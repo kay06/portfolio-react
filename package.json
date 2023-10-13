@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Personal Portfolio app built in React",
   "engines": {
-    "node": "14.19.3"
+    "node": "14"
   },
   "scripts": {
     "preinstall": "npm set audit false",
