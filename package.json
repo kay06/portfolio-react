@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Personal Portfolio app built in React",
   "engines": {
-    "node": "14"
+    "node": "14.19.3"
   },
   "scripts": {
     "preinstall": "npm set audit false",
@@ -35,9 +35,9 @@
   },
   "homepage": "https://github.com/bottega-code-school/js-builder",
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.4.2",
-    "@fortawesome/free-solid-svg-icons": "^6.4.2",
-    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@fortawesome/fontawesome-svg-core": "^6.1.2",
+    "@fortawesome/free-solid-svg-icons": "^6.1.2",
+    "@fortawesome/react-fontawesome": "^0.1.18",
     "ajv": "6.12.0",
     "autoprefixer": "^9.1.0",
     "axios": "^0.21.1",
@@ -96,8 +96,5 @@
     "babel-register": "^6.26.0",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "uglifyjs-webpack-plugin": "^1.2.7"
-  },
-  "optionalDependencies": {
-    "fsevents": "^2.3.3"
   }
 }
